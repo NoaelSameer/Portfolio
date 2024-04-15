@@ -6,7 +6,7 @@ body{
 
 .Header{
     background-image: url('Hero.jpg');
-    height: 50vh;
+    height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
