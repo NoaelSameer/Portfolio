@@ -1,0 +1,13 @@
+body{
+    font-family: Times New Roman;
+}
+
+
+
+.Header{
+    background-image: url('Hero.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
