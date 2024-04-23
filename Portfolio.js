@@ -65,5 +65,22 @@ exampleCarousel.useControls();
 
 
 $(".Portfolio-item-1").click(function() {
-    window.location.href = 'http://www.google.com'
+    window.location.href = 'https://noaelsameer.github.io/Gallery/'
+  });
+  $(".Portfolio-item-2").click(function() {
+    window.location.href = 'https://noaelsameer.github.io/Memory-Game/'
+  });
+
+  $(".Portfolio-item-3").click(function() {
+    window.location.href = 'https://noaelsameer.github.io/SAMIRANNA-Photography/'
+  });
+
+  $(".Portfolio-item-4").click(function() {
+    window.location.href = 'https://noaelsameer.github.io/Javascript-Website/'
+  });
+  $(".Portfolio-item-5").click(function() {
+    window.location.href = 'https://noaelsameer.github.io/TIC-TAC-TOE/'
+  });
+  $(".Portfolio-item-6").click(function() {
+    window.location.href = 'https://noaelsameer.github.io/Business-Website-Page/'
   });

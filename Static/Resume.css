@@ -7,7 +7,11 @@ body{
     font-family: Times New Roman;
 
 }
-/* .form{
-    margin-top: 10vh 10vh;
-    padding: 10vh 10vh 10vh 10vh;
-} */
+ul li::before {
+    content: "\2022";
+    color: #1c2e4a;
+    font-size: 2rem; 
+    display: inline-block;
+    width: 1em; 
+    margin-left: 1em; 
+}

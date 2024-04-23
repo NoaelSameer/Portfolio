@@ -1,6 +1,6 @@
 body{
     font-family: Times New Roman;
-    background-image: url('Hero.jpg');
+    background-image: url('/Static/Hero.jpg');
     max-height: 100vh;
     max-width: 100vw;
     background-repeat: no-repeat;
