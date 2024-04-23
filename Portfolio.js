@@ -62,3 +62,8 @@ const exampleCarousel = new Carousel(PortfolioContainer, PortfolioItems, Portfol
 
 exampleCarousel.setControls();
 exampleCarousel.useControls();
+
+
+$(".Portfolio-item-1").click(function() {
+    window.location.href = 'http://www.google.com'
+  });
