@@ -1,0 +1,28 @@
+body {
+    background-image: url('Hero.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: Times New Roman;
+}
+
+.Resume ul {
+    list-style: none;
+    padding-left: 1em;
+}
+
+.Resume ul li {
+    position: relative;
+    padding-left: 1.5em;
+}
+
+.Resume ul li::before {
+    content: "\2022";
+    color: #1c2e4a;
+    font-size: 2rem;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
